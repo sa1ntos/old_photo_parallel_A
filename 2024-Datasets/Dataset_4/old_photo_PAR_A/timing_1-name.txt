@@ -1,0 +1,3 @@
+Tempo total: 102.213050624 segundos
+Tempo sequencial: 0.000013687 segundos
+Thread 0: 102.179580237 segundos
